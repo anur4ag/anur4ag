@@ -54,9 +54,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/anur4ag/anur4ag/output/snake.svg" alt="Snake animation" />
-
-###
