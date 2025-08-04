@@ -17,7 +17,6 @@ const anurag = {
     education: "CSE @ USICT(GGSIPU), Delhi",
     location: "New Delhi, India 🇮🇳",
     timezone: "UTC +05:30",
-    currentFocus: "Building scalable applications powered by generative AI and agents while contributing to open source",
     funFact: "I turn coffee into code and ideas into reality! ☕→💻"
 };
 ```
